@@ -1,1 +1,1 @@
-A susssy collection from my Python class
+A collection from my Python class
